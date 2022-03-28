@@ -1,6 +1,6 @@
 {
   "name": "@ditus/string-util",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple JavaScript library of extension methods for the string type as well as static utility methods for working with strings.",
   "private": false,
   "main": "dist/index.js",
