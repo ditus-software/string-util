@@ -5,7 +5,8 @@
 [![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 
 A simple JavaScript library that adds extension methods onto the string type in
-JavaScript. The methods are fully documented and unit tested.
+JavaScript and also provides a utility class with additional static methods for
+working with strings. The methods are fully documented and unit tested.
 
 ## Roadmap
 
